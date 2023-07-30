@@ -4,6 +4,6 @@
 
 ### Take a deep breath.  
 
-### It only effects a few old mods in some old Minecraft versions - Forge 1.7.10 and 1.12.2
+### It only provides vulnerabilities to potentially push and execute malicious code to cleints if using multiplayer.  Other users on that multiplayer would need to be willfully pushing malicious code.
 
-### If you still use those old modded MC versions on multiplayer servers - download and install the mod that patches the issue.
+### If join public multiplayer servers - download and install to your profiles the mod that patches the issue.
