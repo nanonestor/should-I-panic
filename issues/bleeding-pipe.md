@@ -10,4 +10,5 @@
 
 - ### Not all mods contain the specific code that provides these vulerabilities - in fact very few mods do.
 
-- ### If joining public multiplayer servers where security is a concern - download and install to your profiles the mod that patches the issue.
+- ### If joining public multiplayer servers where security is a concern - download [the mod that patches the issue](https://github.com/dogboy21/serializationisbad/releases/tag/1.3) and place it in the 'mods' folder of your client profile(s) .
+
