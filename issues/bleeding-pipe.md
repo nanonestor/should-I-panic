@@ -12,5 +12,10 @@
 
 - ### Not all mods contain the specific code that provides these vulerabilities - in fact very few mods do.
 
-- ### If joining public multiplayer servers where security is a concern - download [the mod that patches the issue](https://github.com/dogboy21/serializationisbad/releases/tag/1.3) and place it in the 'mods' folder of your client profile(s) .
+- ### If joining public multiplayer servers where security is a concern - download the mod that patches the issue (see links below) and place it in the 'mods' folder of your client profile(s) and the server 'mods' folder.
 
+---
+
+- [Github page with more detailed explination and source code for the below patch mod](https://github.com/dogboy21/serializationisbad/releases/tag/1.3)
+
+- [Curseforge project page for mod which patches issue.](https://www.curseforge.com/minecraft/mc-mods/serializationisbad)
