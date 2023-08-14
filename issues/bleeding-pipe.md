@@ -10,7 +10,7 @@
 
 - ### The issue only provides _vulnerabilities_ to potentially push and execute malicious code to clients if using multiplayer.  Other users on that multiplayer would need to be willfully pushing malicious code.
 
-- ### Not all mods contain the specific code that provides these vulerabilities - in fact very few mods do.
+- ### Not all mods contain the specific code that provides these vulnerabilities - in fact very few mods do.
 
 - ### If joining public multiplayer servers where security is a concern - download the mod that patches the issue (see links below) and place it in the 'mods' folder of your client profile(s) and the server 'mods' folder.
 
